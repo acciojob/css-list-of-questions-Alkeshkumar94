@@ -1,10 +1,7 @@
 
 /* Your CSS Code here. */
-li{
-	list-style-type:lower-roman;
-	
-}
-.questions{
+
+p{
 	background-color:#f8fffe;
 	height:50px;
 	margin-top:20px;
